@@ -1,0 +1,60 @@
+ .container-fluid{
+ 	margin-top: 12vh;
+ }
+ a{
+ 	text-decoration: none !important;
+ }
+ .name{
+ 	color: black;
+ }
+.unread{
+	color: #28A745;
+    
+
+}
+
+.nav-item{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.blockquote{
+	font-style: 1rem;
+	border-right: 4px solid blue;
+    background-color: #F3F7A6;
+    padding: 8px;
+    border-radius: 20px 3px 20px 3px;
+}
+.blockquote1{
+	font-style: 1rem;
+	border-left:  solid red 4px;
+    background-color: #F3F7A6;
+    padding: 8px;
+    border-radius: 20px 3px 20px 3px;
+}
+
+.msg{
+	margin-top: 23vh;
+}
+i{
+	margin-left: 1vw;
+}
+.profiles{
+	margin-left: 2vw;
+
+}
+.concat{
+	padding-bottom: 3vh;
+}
+#edit{
+	padding-left: 83vw;
+	color: green;
+}
+.mar{
+	margin-top: 4vh;
+}
+.back
+{
+	margin-top: 1vh;
+	background-color: lightgray;
+}
